@@ -13,7 +13,7 @@
 -----------------------------------------------------------
 
 ### 👨🏻‍💻 About Me
-<img src="https://raw.githubusercontent.com/24h41a6113-maha/24h41a6113-maha/main/analyze.jpg" min-width="300px" max-width="300px" width="350px" align="right">  
+<img src="https://raw.githubusercontent.com/24h41a6113-maha/24h41a6113-maha/main/girl.avif" min-width="300px" max-width="300px" width="350px" align="right">  
 
 - ✨ Aspiring Data Scientist | Tech & Analytics Enthusiast 
 - ⚡ Exploring **Machine Learning | Data Science | Web Development**
